@@ -159,16 +159,16 @@ nav a:hover{
 
 
 .icono1 {
-    background-image: url(../img/icono1.png);
+    background-image: url(icono1.png);
 }
 .icono2 {
-    background-image: url(../img/icono2.png);
+    background-image: url(icono2.png);
 }
 .icono3 {
-    background-image: url(../img/icono3.png);
+    background-image: url(icono3.png);
 }
 .icono4 {
-    background-image: url(../img/icono4.png);
+    background-image: url(icono4.png);
 }
 
 #lista-productos .fila {
