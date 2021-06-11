@@ -227,14 +227,14 @@ nav a:hover{
 
 @keyframes banner{
     0%, 30% {
-        background-image: url(../img/Ban1.webp);
+        background-image: url(Ban1.webp);
         opacity: 1;
     }
     31%, 34% {
         opacity: 0.1;
     }
     35%, 65% {
-        background-image: url(../img/Ban2.png);
+        background-image: url(Ban2.png);
         opacity: 1;
     }
     66%, 69% {
@@ -242,7 +242,7 @@ nav a:hover{
     }
     70%, 100% {
         opacity: 1;
-        background-image: url(../img/Ban3.png);
+        background-image: url(img/Ban3.png);
     }
 }
 
